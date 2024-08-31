@@ -9,7 +9,10 @@
     "password": "Not Copyable",
     "records": [
         {
-            
+            "user": "anaban.exe",
+            "link": "https://www.youtube.com/watch?v=g8codCNhxS8&t=6s",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
