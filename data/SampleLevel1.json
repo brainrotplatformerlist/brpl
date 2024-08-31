@@ -2,7 +2,7 @@
     "id": 106511739,
     "name": "Sad Story",
     "author": "mrjustokay",
-    "creators": "mrjustokay",
+    "creators": ["mrjustokay"],
     "verifier": "mrjustokay",
     "verification": "https://youtu.be/g8codCNhxS8",
     "percentToQualify": 100,
