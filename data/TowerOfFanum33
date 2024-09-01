@@ -1,1 +1,18 @@
-
+{
+    "id": 109001193,
+    "name": "Tower Of Fanum 33",
+    "author": "daliscreator",
+    "creators": ["daliscreator"],
+    "verifier": "daliscreator",
+    "verification": "https://youtu.be/eKm4nYqCctI",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "mrjustokay",
+            "link": "https://youtu.be/iKBP0Ifj_Eo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
