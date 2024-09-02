@@ -25,6 +25,12 @@
             "link": "https://youtube.com/shorts/DCyswDCueBg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "mrjustokay",
+            "link": "https://www.youtube.com/watch?v=4Tg8PCkTdG8",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
