@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "mrjustokay",
+            "link": "https://www.youtube.com/watch?v=v53SMC3yV6g",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
